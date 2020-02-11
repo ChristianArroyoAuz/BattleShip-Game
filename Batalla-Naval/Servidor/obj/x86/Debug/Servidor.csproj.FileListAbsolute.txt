@@ -1,0 +1,9 @@
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Servidor\bin\Debug\Servidor.exe
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Servidor\obj\x86\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Servidor\obj\x86\Debug\Servidor.Servidor.resources
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Servidor\obj\x86\Debug\Servidor.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Servidor\obj\x86\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Servidor\obj\x86\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Servidor\obj\x86\Debug\Servidor.exe
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Servidor\obj\x86\Debug\Servidor.pdb

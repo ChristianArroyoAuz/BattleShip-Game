@@ -1,0 +1,13 @@
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Cliente\bin\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Cliente\bin\Debug\Servidor.exe
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Cliente\bin\Debug\Servidor.pdb
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Cliente\obj\x86\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Cliente\obj\x86\Debug\Cliente.Cliente.resources
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Cliente\obj\x86\Debug\Cliente.Ingreso_Datos.resources
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Cliente\obj\x86\Debug\Cliente.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Cliente\obj\x86\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Cliente\obj\x86\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Cliente\obj\x86\Debug\Cliente.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Cliente\obj\x86\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Cliente\obj\x86\Debug\Cliente.pdb

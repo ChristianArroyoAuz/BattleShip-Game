@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "Cliente\Cliente.csproj", "{030E84F6-F81B-41D4-B2B0-511F2CD6644D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batalla_Naval", "Batalla_Naval\Batalla_Naval.csproj", "{0964DBDD-DD92-4D53-90F0-DF3F3CCF2313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor", "Servidor\Servidor.csproj", "{03B755EE-70F4-4FBD-98D8-8044A2BB989C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{030E84F6-F81B-41D4-B2B0-511F2CD6644D}.Debug|x86.ActiveCfg = Debug|x86
+		{030E84F6-F81B-41D4-B2B0-511F2CD6644D}.Debug|x86.Build.0 = Debug|x86
+		{030E84F6-F81B-41D4-B2B0-511F2CD6644D}.Release|x86.ActiveCfg = Release|x86
+		{030E84F6-F81B-41D4-B2B0-511F2CD6644D}.Release|x86.Build.0 = Release|x86
+		{0964DBDD-DD92-4D53-90F0-DF3F3CCF2313}.Debug|x86.ActiveCfg = Debug|x86
+		{0964DBDD-DD92-4D53-90F0-DF3F3CCF2313}.Debug|x86.Build.0 = Debug|x86
+		{0964DBDD-DD92-4D53-90F0-DF3F3CCF2313}.Release|x86.ActiveCfg = Release|x86
+		{0964DBDD-DD92-4D53-90F0-DF3F3CCF2313}.Release|x86.Build.0 = Release|x86
+		{03B755EE-70F4-4FBD-98D8-8044A2BB989C}.Debug|x86.ActiveCfg = Debug|x86
+		{03B755EE-70F4-4FBD-98D8-8044A2BB989C}.Debug|x86.Build.0 = Debug|x86
+		{03B755EE-70F4-4FBD-98D8-8044A2BB989C}.Release|x86.ActiveCfg = Release|x86
+		{03B755EE-70F4-4FBD-98D8-8044A2BB989C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1B976B1-2746-42C4-80D8-1A139BF263ED}
+	EndGlobalSection
+EndGlobal

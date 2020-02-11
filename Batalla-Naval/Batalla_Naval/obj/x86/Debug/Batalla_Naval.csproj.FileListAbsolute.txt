@@ -1,0 +1,14 @@
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Batalla_Naval\bin\Debug\Batalla_Naval.exe
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Batalla_Naval\bin\Debug\Batalla_Naval.pdb
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Batalla_Naval\bin\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Batalla_Naval\bin\Debug\Servidor.exe
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Batalla_Naval\bin\Debug\Cliente.pdb
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Batalla_Naval\bin\Debug\Servidor.pdb
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Batalla_Naval\obj\x86\Debug\Batalla_Naval.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Batalla_Naval\obj\x86\Debug\Batalla_Naval.Batalla_Naval.resources
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Batalla_Naval\obj\x86\Debug\Batalla_Naval.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Batalla_Naval\obj\x86\Debug\Batalla_Naval.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Batalla_Naval\obj\x86\Debug\Batalla_Naval.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Batalla_Naval\obj\x86\Debug\Batalla_Naval.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Batalla_Naval\obj\x86\Debug\Batalla_Naval.exe
+C:\Users\Christian Arroyo\Desktop\Batalla-Naval\Batalla_Naval\obj\x86\Debug\Batalla_Naval.pdb
